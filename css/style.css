@@ -13,9 +13,12 @@ header{
 main{
     width: 1490px;
     height: 1000px;
-    background-color: #FFFFFF;
     margin: auto;
+    
 }
 .A_1{
+    height: 75px;
+}.A_2{
     height: 125px;
+    background-color: #FFFFFF;
 }
